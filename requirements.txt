@@ -1,0 +1,7 @@
+streamlit==1.41.1
+langchain==0.3.26
+langchain-community==0.3.26
+langchain-openai==0.3.27
+openai==1.109.1
+python-dotenv==1.2.1
+streamlit-chat==0.0.5
